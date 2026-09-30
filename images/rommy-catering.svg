@@ -1,0 +1,67 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2a1f18"/>
+      <stop offset="0.45" stop-color="#57412d"/>
+      <stop offset="1" stop-color="#1c100d"/>
+    </linearGradient>
+    <linearGradient id="softFade" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fffaf1" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#softFade)"/>
+
+  <rect x="0" y="0" width="1200" height="118" fill="#f6f3ee"/>
+  <g transform="translate(36,20)">
+    <rect x="0" y="16" width="56" height="56" rx="28" fill="#f3debc"/>
+    <path d="M22 20C22 14.477 26.477 10 32 10C37.523 10 42 14.477 42 20C42 25.523 37.523 30 32 30C26.477 30 22 25.523 22 20Z" fill="#b86a2a"/>
+    <path d="M20 26C23.5 23 29 21.5 32.5 21.5C36.5 21.5 42 23.5 44 27V43H20V26Z" fill="#d98a36"/>
+    <path d="M18 34C22.5 32 27 31.5 32 31.5C37.5 31.5 42 32.5 46 35V46H18V34Z" fill="#d7a659"/>
+  </g>
+  <text x="110" y="68" fill="#d93b4e" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="800">Rommy</text>
+  <text x="256" y="68" fill="#3c2118" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="1.5">Catering Services</text>
+  <text x="890" y="66" fill="#2e1f1a" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">FOR QUALITY &amp; SATISFACTION</text>
+  <rect x="1094" y="28" width="70" height="46" rx="12" fill="#f3f0ea"/>
+  <rect x="1110" y="42" width="40" height="5" rx="2.5" fill="#2e1f1a"/>
+  <rect x="1110" y="53" width="40" height="5" rx="2.5" fill="#2e1f1a"/>
+  <rect x="1110" y="64" width="24" height="5" rx="2.5" fill="#2e1f1a"/>
+
+  <rect x="140" y="202" width="920" height="72" rx="36" fill="#f1efe9" fill-opacity="0.32"/>
+  <text x="332" y="254" fill="#f2f0ed" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="1.5">A DIVISION OF ROMLAD-TOYE NIG. ENT.</text>
+
+  <text x="170" y="396" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="104" font-weight="900">Rommy Catering</text>
+  <text x="170" y="496" fill="#f29cc1" font-family="Segoe UI, Arial, sans-serif" font-size="104" font-weight="900">Services</text>
+
+  <text x="170" y="590" fill="#fff5ee" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">For Quality and Satisfaction — Premium</text>
+  <text x="170" y="645" fill="#fff5ee" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">catering for weddings, birthdays and corporate</text>
+  <text x="170" y="700" fill="#fff5ee" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">events across Lagos.</text>
+
+  <rect x="170" y="740" width="420" height="88" rx="18" fill="#e94b58"/>
+  <rect x="610" y="740" width="420" height="88" rx="18" fill="#7cc1f3"/>
+
+  <rect x="214" y="768" width="26" height="30" rx="4" fill="#fff5ee"/>
+  <rect x="220" y="772" width="14" height="22" rx="3" fill="#e94b58"/>
+  <path d="M218 786H236" stroke="#fff5ee" stroke-width="3" stroke-linecap="round"/>
+  <text x="260" y="792" fill="#fff5ee" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">Book Catering</text>
+
+  <circle cx="648" cy="782" r="20" fill="#fff5ee"/>
+  <path d="M640 782C640 775.373 645.373 770 652 770H655.5C662.127 770 667.5 775.373 667.5 782V782C667.5 788.627 662.127 794 655.5 794H652C645.373 794 640 788.627 640 782V782Z" fill="#7cc1f3"/>
+  <path d="M648 775L648 789" stroke="#fff5ee" stroke-width="3" stroke-linecap="round"/>
+  <path d="M641 782H655" stroke="#fff5ee" stroke-width="3" stroke-linecap="round"/>
+  <text x="690" y="792" fill="#fff5ee" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">Get a Quote</text>
+
+  <rect x="340" y="830" width="520" height="88" rx="18" fill="none" stroke="#f6f3ee" stroke-width="3"/>
+  <circle cx="390" cy="875" r="16" fill="none" stroke="#fff5ee" stroke-width="3"/>
+  <path d="M380 875H400" stroke="#fff5ee" stroke-width="3" stroke-linecap="round"/>
+  <path d="M390 866V884" stroke="#fff5ee" stroke-width="3" stroke-linecap="round"/>
+  <text x="430" y="884" fill="#fff5ee" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">Call Now</text>
+
+  <g opacity="0.8">
+    <ellipse cx="214" cy="493" rx="190" ry="154" fill="#d3b98f" fill-opacity="0.28"/>
+    <ellipse cx="1000" cy="457" rx="170" ry="120" fill="#f1d2a2" fill-opacity="0.18"/>
+    <ellipse cx="969" cy="706" rx="206" ry="164" fill="#e3b084" fill-opacity="0.18"/>
+  </g>
+</svg>

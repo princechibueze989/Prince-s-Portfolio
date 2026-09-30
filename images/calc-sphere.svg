@@ -1,0 +1,66 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#041426"/>
+      <stop offset="1" stop-color="#071a2c"/>
+    </linearGradient>
+    <linearGradient id="cardGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#91A6FF"/>
+      <stop offset="1" stop-color="#7FA3FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <rect x="0" y="0" width="1200" height="100" fill="#07172c" stroke="#1F2B3D"/>
+  <rect x="40" y="32" width="56" height="36" rx="8" fill="none" stroke="#DDE7F6" stroke-opacity="0.7"/>
+  <rect x="52" y="42" width="32" height="3.5" rx="2" fill="#DDE7F6" fill-opacity="0.8"/>
+  <rect x="52" y="52" width="32" height="3.5" rx="2" fill="#DDE7F6" fill-opacity="0.8"/>
+  <rect x="52" y="62" width="24" height="3.5" rx="2" fill="#DDE7F6" fill-opacity="0.8"/>
+
+  <text x="118" y="58" fill="#EAF2FF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Dashboard</text>
+
+  <circle cx="1128" cy="50" r="26" fill="#E9EEF9"/>
+  <circle cx="1128" cy="50" r="11" fill="#061A2F"/>
+
+  <g>
+    <text x="64" y="195" fill="#EAF2FF" font-family="Segoe UI, Arial, sans-serif" font-size="82" font-weight="800">Calculator Dashboard</text>
+    <text x="64" y="270" fill="#C9D7F2" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="400">A professional toolkit for science, mathematics</text>
+    <text x="64" y="318" fill="#C9D7F2" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="400">and everyday calculations.</text>
+  </g>
+
+  <rect x="64" y="370" width="1072" height="260" rx="32" fill="url(#cardGlow)"/>
+  <text x="94" y="470" fill="#EFF4FF" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800">Calculate with confidence.</text>
+  <text x="94" y="570" fill="#EDF4FF" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">One organized workspace for scientific</text>
+  <text x="94" y="612" fill="#EDF4FF" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">calculations, advanced mathematics,</text>
+  <text x="94" y="654" fill="#EDF4FF" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">physics, chemistry, biology, engineering,</text>
+  <text x="94" y="696" fill="#EDF4FF" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">astronomy, conversions, statistics, finance</text>
+  <text x="94" y="738" fill="#EDF4FF" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">and visual graphs.</text>
+
+  <g>
+    <rect x="64" y="760" width="1040" height="116" rx="20" fill="#0D1C2E" stroke="#2D3D52"/>
+    <text x="96" y="824" fill="#EEF5FF" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700">Scientific</text>
+    <text x="430" y="824" fill="#D3DEFA" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">Evaluate expressions with trigonometry, logs</text>
+    <text x="430" y="863" fill="#D3DEFA" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">and powers.</text>
+  </g>
+
+  <g>
+    <rect x="64" y="890" width="1040" height="116" rx="20" fill="#0D1C2E" stroke="#2D3D52"/>
+    <text x="96" y="954" fill="#EEF5FF" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700">Mathematics</text>
+    <text x="430" y="954" fill="#D3DEFA" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">Algebra, geometry, calculus and number</text>
+    <text x="430" y="993" fill="#D3DEFA" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">theory.</text>
+  </g>
+
+  <g>
+    <rect x="64" y="1020" width="1040" height="116" rx="20" fill="#0D1C2E" stroke="#2D3D52"/>
+    <text x="96" y="1084" fill="#EEF5FF" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700">Physics</text>
+    <text x="430" y="1084" fill="#D3DEFA" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">Motion, forces, energy, electricity and waves.</text>
+  </g>
+
+  <g>
+    <rect x="64" y="1150" width="1040" height="136" rx="20" fill="#0D1C2E" stroke="#4C7CFF" stroke-width="3"/>
+    <text x="96" y="1224" fill="#EEF5FF" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700">Chemistry</text>
+    <text x="430" y="1224" fill="#D3DEFA" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">Moles, solutions, gases and formula</text>
+    <text x="430" y="1263" fill="#D3DEFA" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="400">explanations.</text>
+  </g>
+</svg>

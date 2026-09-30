@@ -1,0 +1,66 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pageBg" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f5f2ef"/>
+      <stop offset="1" stop-color="#ece5df"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#c3b09b"/>
+      <stop offset="1" stop-color="#856d49"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#pageBg)"/>
+
+  <rect x="0" y="0" width="1200" height="92" fill="#f7f4f0"/>
+  <rect x="0" y="92" width="1200" height="10" fill="#e0d6c9"/>
+
+  <text x="72" y="63" fill="#1f2421" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700">aureline.</text>
+
+  <g fill="#24352b" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">
+    <text x="512" y="62">HOME</text>
+    <text x="644" y="62">SHOP</text>
+    <text x="770" y="62">JOURNAL</text>
+    <text x="930" y="62">OUR STORY</text>
+    <text x="1078" y="62">SEARCH</text>
+    <text x="1188" y="62">ACC</text>
+  </g>
+
+  <rect x="660" y="56" width="110" height="4" fill="#d3af7c"/>
+
+  <text x="74" y="165" fill="#1f2421" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="3">THE QUIET COLLECTION / 2026</text>
+
+  <text x="76" y="300" fill="#1a2a27" font-family="Georgia, 'Times New Roman', serif" font-size="170" font-weight="700">Make room for</text>
+  <text x="76" y="470" fill="#1a2a27" font-family="Georgia, 'Times New Roman', serif" font-size="170" font-weight="700" font-style="italic">less.</text>
+
+  <text x="82" y="570" fill="#3b473f" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="400">Thoughtful objects for everyday rituals.</text>
+  <text x="82" y="626" fill="#3b473f" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="400">Designed slowly, made to stay.</text>
+
+  <rect x="82" y="686" width="660" height="98" rx="12" fill="#1b2a27"/>
+  <text x="198" y="748" fill="#f6f2ee" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Shop the collection</text>
+  <path d="M625 721L680 747L625 773V721Z" fill="#f3f0eb"/>
+  <rect x="666" y="714" width="60" height="60" rx="14" fill="#b8d4ee"/>
+  <path d="M691 722L706 737L691 752" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="84" y="835" width="1032" height="306" rx="20" fill="#d9c4a4"/>
+  <rect x="84" y="835" width="1032" height="30" fill="#d0b178" fill-opacity="0.7"/>
+  <rect x="160" y="874" width="840" height="150" rx="8" fill="#e7d8bf" fill-opacity="0.22"/>
+  <rect x="100" y="830" width="1000" height="220" fill="url(#accent)" opacity="0.18"/>
+
+  <g opacity="0.85">
+    <rect x="118" y="884" width="660" height="160" fill="#f7f1eb" fill-opacity="0.18"/>
+    <rect x="184" y="918" width="210" height="94" fill="#d6a170" fill-opacity="0.26"/>
+  </g>
+
+  <g>
+    <rect x="580" y="760" width="430" height="120" rx="16" fill="#e5d6c4" fill-opacity="0.37"/>
+    <path d="M730 790C730 744 767 708 814 708C861 708 898 744 898 790V808H730V790Z" fill="#5e4330" fill-opacity="0.2"/>
+    <path d="M838 698C850 684 866 678 881 678C912 678 938 700 938 730V742H838V698Z" fill="#d3c2ad" fill-opacity="0.46"/>
+    <path d="M758 760H864" stroke="#e5d6c4" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="780" cy="814" r="34" fill="#e8d0a9" fill-opacity="0.8"/>
+    <circle cx="864" cy="814" r="34" fill="#e8d0a9" fill-opacity="0.8"/>
+  </g>
+
+  <rect x="92" y="860" width="50" height="200" fill="#b18a56" fill-opacity="0.5"/>
+  <rect x="1060" y="860" width="40" height="200" fill="#b18a56" fill-opacity="0.5"/>
+</svg>
